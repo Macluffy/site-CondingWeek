@@ -1,0 +1,228 @@
+.bold{
+    
+    font-size:25px ;
+}
+#nav li a{
+    color:black
+    
+
+}
+.inp:active{
+    border-color:black;
+}
+.Anton{
+    font-family: 'Anton', sans-serif;
+}
+.bol{
+    font-size:15px;
+    text-decoration:none;
+    color:black
+}
+.bol:hover{
+    color:gray;
+}
+.jordan{
+    height: 3vh;
+    margin-left:30px;
+    margin-top:15px;
+    
+}
+#rejoigner{
+    padding:0 19px;
+    border-left:solid 1px black;
+    border-right:solid 1px black;
+}
+.hov:hover{
+border-bottom: solid 1px black;
+}
+
+
+.nike2{
+    height:4vh;
+    margin-left:300px;
+}
+
+.troip{
+    text-decoration:none;
+    color:white;
+    font-size:13px;
+    font-weight:bold;
+
+}
+.troi{
+    text-decoration: none;
+    color:gray;
+    font-size:12px;
+
+}
+li {
+    list-style:none;
+}
+#bgg{
+    background-color: #111111;
+    height:350px;
+
+    
+}
+.footer{
+    margin:0 auto;
+    height:250px;
+    
+}
+.lis{
+    display:inline;
+    list-style:none;
+  
+}
+.troip:hover{
+color:white;
+}
+.troi:hover{
+    color:white
+    }
+.in{
+    font-size: 22px;
+    display:inline;
+    color:black;
+    text-decoration:none;
+}
+.in:hover{
+    color:grey;
+}
+.img1{
+    height: 1000px;
+    margin:0 35%;
+    margin-top:30px;
+       
+}
+.img2{
+    height: 1000px;
+    margin:0 35%;
+    margin-top:30px;
+       
+}
+.img3{
+    height: 1000px;
+    margin:0 35%;
+    margin-top:30px;
+       
+}
+.niknik{
+    width: 80%;
+    margin:0 10%;
+    padding-top:30px;
+}
+.la{
+    font-size: 35px;
+}
+.lo{
+    text-decoration: none;
+    font-size:16px ;
+    color:rgb(59, 59, 59)
+}
+.le{
+    text-decoration: none ;
+    color:black;
+    font-size:20px
+}
+.le:hover{
+    color:gray
+}
+.lo:hover{
+    color:rgb(160, 159, 159)
+}
+.pupu:active{
+    outline: none!important;
+}
+.ph2{
+    width: 100%;
+}
+.myph{
+   height :630px;
+}
+.trro{
+    text-decoration: none;
+    color:black;
+    font-size:20px;
+
+}
+.trro:hover{
+color:gray
+}
+.tro{
+    text-decoration: none;
+    color: gray;
+    font-size: 17px;
+}
+.tro:hover{
+    color:black
+}
+hr{
+    color:gray
+}
+
+.fo{
+    text-decoration: none;
+    color:gray;
+    font-size:11px;
+    text-align:right;
+}
+
+.foo{
+    margin-left:53%;
+}
+.fo:hover{
+    color:white;
+}
+.foooo{
+    margin-left:25%
+}
+.fob{
+    text-decoration: none;
+    color:white;
+    font-size:11px;
+
+}
+.hom{
+    margin-left:23%
+}
+
+.homm{
+    margin-left:15%
+}
+.fi{
+    text-decoration:underline;
+    color:white;
+    font-size:20px;
+}
+.fob:hover{
+    color:gray;
+}
+.fi:hover{
+    color:gray;
+}
+.yo{
+    width: 90%;
+}
+.ham{
+    margin-left:5%;
+}
+.fem{
+    margin-left:20%;
+}
+.enf{
+    margin-left:28%
+}
+.butt:hover{
+    background-color: gray;
+}
+.butt{
+    border:none
+}
+.chocho{
+    position:absolute;
+    bottom:0;
+}
+.marga{
+    margin-top:300px
+}
